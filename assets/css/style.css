@@ -1,0 +1,17 @@
+body {
+    background: url("../images/seigaiha.png");
+}
+
+/* navbar */
+
+nav {
+    border-bottom: 3px solid #cccccc;
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    border-radius: 10px;
+    background-color: #4aaaa5;
+    padding-right: 10px;
+    padding-left: 10px;
+}
