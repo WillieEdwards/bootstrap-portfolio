@@ -10,7 +10,7 @@ body {
   overflow: hidden;
   display: block;
   position: relative;
-  padding-bottom: 100px;
+  padding-bottom: 125px;
 }
 
 .container {
@@ -85,9 +85,9 @@ footer {
   color: #cccccc;
   text-align: center;
   border-top: 8px solid #0060a8;
-  margin-top: 5%;
   height: 50px;
 }
+
 /* bio page */
 
 .auth-image {
